@@ -19,6 +19,7 @@ The dataset contains 30,000 instances and 24 features. Data preprocessing involv
 #### Results
 Feature selection significantly improved model accuracy. The Random Forest model showed the highest accuracy improvement, from 80.69% to 82.08%. KNN and Logistic Regression also saw notable accuracy enhancements. Some models, like Gaussian Naïve Bayes, experienced slight decreases in accuracy, highlighting areas for further investigation.
 <img width="499" alt="Screen Shot 2024-07-17 at 3 27 15 PM" src="https://github.com/user-attachments/assets/a28f583a-129d-4cfc-8336-3add0fc4b9be">
+
 Table: Compare Model Accuracy Between All and Significant Features
 
 #### Discussion
